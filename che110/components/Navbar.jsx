@@ -14,9 +14,9 @@ export default function Navbar() {
           <Image src="/logo.png" alt="logo" width={80} height={60}/>
         </div>
         <div className={styles.linksContainer}>
-            <a href="/">Our Story</a>
-            <a href="/">Explore</a>
-            <a href="/">Solutions</a>
+            <a href="google.com">Our Story</a>
+            <a href="google.com">Explore</a>
+            <a href="google.com">Solutions</a>
            
           <button className={styles.elevatedButton}>Check AQI</button>
         </div>
