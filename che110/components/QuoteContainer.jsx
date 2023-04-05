@@ -21,7 +21,8 @@ export default function QuoteContainer() {
           <div className={styles.rightContainer}>
             <div className={styles.imageContainer}></div>
             <div className={styles.quotesContainer}>
-              <p className={styles.quote}>Climate change is not just an environmental problem, it's a societal and economic one. The impacts of global warming, sea-level rise, and extreme weather events are devastating communities worldwide. It's a crisis that demands urgent action on a global scale. We need to transition to a low-carbon economy, invest in renewable energy, and promote sustainable land use. We must also address the social and economic inequalities that the crisis has exacerbated. It's time to take bold steps towards a sustainable and equitable future for all.</p>
+              <p className={styles.quote}>
+                Climate change is not just an environmental problem, its a societal and economic one. The impacts of global warming, sea-level rise, and extreme weather events are devastating communities worldwide. Its a crisis that demands urgent action on a global scale. We need to transition to a low-carbon economy, invest in renewable energy, and promote sustainable land use. We must also address the social and economic inequalities that the crisis has exacerbated. Its time to take bold steps towards a sustainable and equitable future for all.</p>
             </div>
           </div>
         </div>
