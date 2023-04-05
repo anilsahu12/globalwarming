@@ -19,9 +19,9 @@ export default function EarthRotation() {
           </div>
           <div className={styles.rightContainer}>
             <p className={styles.description}>
-              Are you ready to face the truth about climate change? It's not a
-              distant threat or a problem for future generations - it's
-              happening right now, and it's affecting every aspect of our lives.
+              Are you ready to face the truth about climate change? Its not a
+              distant threat or a problem for future generations - its
+              happening right now, and its affecting every aspect of our lives.
               From extreme weather events and rising sea levels to loss of
               biodiversity and food insecurity, the impacts of climate change
               are already being felt around the world.
@@ -33,7 +33,7 @@ export default function EarthRotation() {
               solution and build a brighter, greener, and more resilient world.
               So, are you ready to join the fight against climate change?
             </p>
-            <p className={styles.description}>"The Climate Clock is Ticking: It's Time to Act"
+            <p className={styles.description}>The Climate Clock is Ticking: Its Time to Act
 </p>
           </div>
         </div>
