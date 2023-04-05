@@ -16,7 +16,7 @@ export default function Resources() {
                 <a href="https://www.nationalgeographic.com/environment/global-warming/global-warming-101/" className="text-blue-400 text-lg font-semibold hover:text-white">National Geographic: Climate 101 ➲</a>
                 <h3 className="text-4xl font-bold my-7">Climate Change Impacts Map by Environmental Defense Fund</h3>
                 <a href="https://www.edf.org/climate/climate-change-impacts-map" className="text-blue-400 text-lg font-semibold hover:text-white">Climate Impacts Map ➲</a>
-                <h3 className="text-4xl font-bold my-7">"The Climate Reality Project" by Al Gore
+                <h3 className="text-4xl font-bold my-7">The Climate Reality Project by Al Gore
 </h3>
                 <a href="https://www.climaterealityproject.org/" className="text-blue-400 text-lg font-semibold hover:text-white">The Climate Reality Project
  ➲</a>
