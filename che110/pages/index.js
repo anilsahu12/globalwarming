@@ -18,7 +18,9 @@ export default function Home() {
   return (
     <>
       {/* <Navbar /> */}
+    <div className="max-w-7xl mx-auto">
       <VideoComponent />
+    </div>
       <QuoteContainer />
       <div>
       <MainSection />
