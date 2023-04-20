@@ -19,22 +19,12 @@ export default function EarthRotation() {
           </div>
           <div className={styles.rightContainer}>
             <p className={styles.description}>
-              Are you ready to face the truth about climate change? Its not a
-              distant threat or a problem for future generations - its
-              happening right now, and its affecting every aspect of our lives.
-              From extreme weather events and rising sea levels to loss of
-              biodiversity and food insecurity, the impacts of climate change
-              are already being felt around the world.
+              Global warming is not just a buzzword or a vague concept, it is a real and pressing threat to our planet. Our actions are causing the Earth&apos;s temperature to rise, and this has catastrophic consequences for the environment, wildlife, and human society.
             </p>
             <p className={styles.description}>
-              The first step is to educate ourselves and others about the
-              science and solutions of climate change, and to take action in our
-              daily lives and communities. Together, we can be part of the
-              solution and build a brighter, greener, and more resilient world.
-              So, are you ready to join the fight against climate change?
+              We are already seeing the effects of global warming in the form of more frequent and intense natural disasters, rising sea levels, and more extreme weather conditions. But we still have a chance to make a difference. By reducing our carbon footprint, adopting sustainable practices, and promoting clean energy sources, we can help to mitigate the effects of global warming and ensure a brighter, safer future for generations to come.
             </p>
-            <p className={styles.description}>The Climate Clock is Ticking: Its Time to Act
-</p>
+            <p className={styles.description}>The Climate Clock is Ticking: It&apos;s Time to Act</p>
           </div>
         </div>
       </div>

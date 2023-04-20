@@ -15,14 +15,15 @@ export default function QuoteContainer() {
       <div className={styles.container}>
         <div className={styles.flexContainer}>
           <div className={styles.content}>
-           <h2 className="text-8xl font-semibold">A Threat to Our Future Generations
+           <h2 className="text-8xl font-semibold">The threat of Global Warming
 </h2>
           </div>
           <div className={styles.rightContainer}>
             <div className={styles.imageContainer}></div>
             <div className={styles.quotesContainer}>
               <p className={styles.quote}>
-                Climate change is not just an environmental problem, its a societal and economic one. The impacts of global warming, sea-level rise, and extreme weather events are devastating communities worldwide. Its a crisis that demands urgent action on a global scale. We need to transition to a low-carbon economy, invest in renewable energy, and promote sustainable land use. We must also address the social and economic inequalities that the crisis has exacerbated. Its time to take bold steps towards a sustainable and equitable future for all.</p>
+              Global warming is one of the most pressing issues facing humanity today. The Earth&apos;s temperature has been steadily increasing over the past century, primarily due to human activities like burning fossil fuels and deforestation. The consequences of this trend are already becoming apparent: melting ice caps, rising sea levels, more frequent and severe weather events, and the displacement of millions of people. </p>
+              <p className={styles.quote}>It&apos;s time for all of us to take responsibility and work together to create a sustainable and livable world.</p>
             </div>
           </div>
         </div>
