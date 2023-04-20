@@ -6,22 +6,22 @@ const styles = {
 
 import Image from "next/image";
 
+import Link from "next/link";
+
 export default function Navbar() {
   return (
     <>
       <div className={styles.navbarContainer}>
         <div className={styles.logoContainer}>
-          <Image src="medium.svg" alt="logo" width={160} height={160}/>
+          <Image src="/logo.png" alt="logo" width={80} height={60}/>
         </div>
         <div className={styles.linksContainer}>
-            <a href="/">Our Story</a>
-            <a href="/">Membership</a>
-            <a href="/">Check AQI</a>
-            <a href="/">Write</a>
+          <Link href="/our-story"><a>Our Story</a></Link>
+          <Link href="/explore"><a>Explore</a></Link>
+          <Link href="/solutions"><a>Solutions</a></Link>
           <button className={styles.elevatedButton}>Check AQI</button>
         </div>
       </div>
-
     </>
   )
 }
